@@ -10,3 +10,6 @@ Michele
 Matteo
 Jacopo
 Martino
+antonio
+angela
+oreste
